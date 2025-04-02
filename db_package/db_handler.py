@@ -5,7 +5,7 @@
 # Due Date:   04/03/2025
 # Course #/Section:  IS 4010-001
 # Semester/Year:   Spring 2025
-# Brief Description of the assignment:  
+# Brief Description of the assignment: pulls data from database, implement a SQL statment and then implements a summarized comment
 
 # Brief Description of what this module does: Database connection and query handler for Grocery Store Simulator
 #Handles all SQL Server interactions 
